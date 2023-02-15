@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P32a_Leer_Fichero_Txt", "P32a_Leer_Fichero_Txt\P32a_Leer_Fichero_Txt.csproj", "{874371A4-423B-4A5A-B657-16F54421C10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874371A4-423B-4A5A-B657-16F54421C10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874371A4-423B-4A5A-B657-16F54421C10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874371A4-423B-4A5A-B657-16F54421C10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874371A4-423B-4A5A-B657-16F54421C10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5E73F3-A0DA-4E62-8D3B-E5F813A6873C}
+	EndGlobalSection
+EndGlobal

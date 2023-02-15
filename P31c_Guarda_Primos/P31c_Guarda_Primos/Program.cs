@@ -72,7 +72,7 @@ namespace P31c_Guarda_Primos
             for (int i = 2; i < num; i++)
                 if ((num % i) == 0)
                     return false;
-            //o
+            //otra forma
             //if (num == 0 || num == 1 || num == 4)
             //    return false;
 
