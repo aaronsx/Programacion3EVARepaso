@@ -1,0 +1,8 @@
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\bin\Debug\Peliculas.exe.config
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\bin\Debug\Peliculas.exe
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\bin\Debug\Peliculas.pdb
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.AssemblyReference.cache
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\obj\Debug\Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\obj\Debug\Peliculas.exe
+C:\Users\Sturt\OneDrive\Documentos\Grado\Programacion\Programacion3EVARepaso\Peliculas\Peliculas\obj\Debug\Peliculas.pdb
